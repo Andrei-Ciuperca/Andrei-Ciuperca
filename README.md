@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Andrei Ciupercă, 17
-- 👀 I’m interested in Gaming, general computer stuff, programming, sports and just learning new things
-- 🌱 I’m currently studying in college and I'm just trying to learn as much as possible
+- 👋 Hi, I’m Andrei Ciupercă
+- 👀 Play around on my puter all day
+- 🌱 College student
 - 📫 How to reach me Discord: andrei.cpa
 
 <!---
