@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Andrei Ciupercă
-- 👀 Play around on my puter all day
-- 🌱 College student
-- 📫 How to reach me Discord: andrei.cpa
+Instagram: andrei.curmare
+Telegram: @andreicurmare
 
 <!---
 Andrei-Ciuperca/Andrei-Ciuperca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
