@@ -1,5 +1,3 @@
-Instagram: andrei.curmare
-Telegram: @andreicurmare
 
 <!---
 Andrei-Ciuperca/Andrei-Ciuperca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
