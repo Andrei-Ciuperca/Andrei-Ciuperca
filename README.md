@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=500&lines=Andrei+Ciuperca" alt="Andrei Ciuperca" />
 
-**Software Engineer at [Tafi Solutions](https://github.com/Tafi-Solutions)**<br/>
+**Founder && Software Engineer at [Tafi Solutions](https://github.com/Tafi-Solutions)**<br/>
 Chișinău, Moldova
 
 <br/>
